@@ -1,0 +1,4 @@
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.pptx filter=lfs diff=lfs merge=lfs -text
+4.[[:space:]]Presentations[[:space:]](Design[[:space:]]Review)/Design[[:space:]]Review[[:space:]]4/Design[[:space:]]Review[[:space:]]\#4.pptx filter=lfs diff=lfs merge=lfs -text
+2.[[:space:]]Meeting[[:space:]]Notes[[:space:]](Needs[[:space:]]Statement,[[:space:]]Client-TA-Team-Class[[:space:]]Meetings)/In-Class[[:space:]]Meetings/TEAM[[:space:]]Lab[[:space:]]Meeting[[:space:]]1.mp4 filter=lfs diff=lfs merge=lfs -text
